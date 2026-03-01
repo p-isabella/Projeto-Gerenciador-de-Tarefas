@@ -5,6 +5,6 @@
 ## Tecnologias:
 -
 -
-- CLI
+- 
 
 ## Status: Em andamento.
